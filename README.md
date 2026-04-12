@@ -1,0 +1,14 @@
+## My repositories map
+
+**AI Agent Skills**
+- [Daneel](https://github.com/jvogan/ai-chatbot-daneel) — give your agent a safe Telegram/Discord chatbot, nine safety layers on by default
+- [Symphony Linear Starter](https://github.com/jvogan/symphony-linear-starter) — give your agent self-improving teams orchestrated through Linear
+- [Symphony Claude Lane](https://github.com/jvogan/symphony-claude-lane) — give your agent a Claude Code lane in Symphony + Linear workflows
+- [yt-agent](https://github.com/jvogan/yt-agent) — give your agent terminal YouTube search, download, and clip tooling
+
+**Developer Tools**
+- [Valar](https://github.com/jvogan/Valar) — give your agent a voice, or never type again yourself: unlimited local TTS, ASR, and MCP bridge for Apple Silicon
+- [WhisperHUD](https://github.com/jvogan/whisper-hud) — give your agent fast local transcription, or use it yourself as system-wide voice-to-text for macOS
+
+**Biotools** *(experimental)*
+- More coming soon
