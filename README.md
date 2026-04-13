@@ -1,5 +1,8 @@
 ## My repositories map
 
+**Biotools**
+- [Proteus](https://github.com/jvogan/proteus) — give your agent structural biology: PyMOL, ChimeraX, AlphaFold, and Rosetta automation
+
 **AI Agent Skills**
 - [Telegram Codex Bridge](https://github.com/jvogan/telegram-codex-bridge) — talk to your Codex Desktop session from anywhere: text, voice, and files over Telegram
 - [Daneel](https://github.com/jvogan/ai-chatbot-daneel) — give your agent a safe Telegram/Discord chatbot, nine safety layers on by default
@@ -10,6 +13,3 @@
 **Developer Tools**
 - [Valar](https://github.com/jvogan/Valar) — give your agent a voice: unlimited local TTS, ASR, and MCP bridge for Apple Silicon
 - [WhisperHUD](https://github.com/jvogan/whisper-hud) — give your agent fast local transcription, or use it yourself as system-wide voice-to-text for macOS
-
-**Biotools** *(experimental)*
-- More coming soon
