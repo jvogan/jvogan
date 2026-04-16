@@ -1,6 +1,7 @@
 ## My repositories map
 
 **Biotools**
+- [BioVoice](https://github.com/jvogan/biovoice) — talk to your protein structures: local voice control for PyMOL, ChimeraX, AlphaFold, and Rosetta via OpenAI Realtime API tool calling
 - [Proteus](https://github.com/jvogan/proteus) — give your agent structural biology: PyMOL, ChimeraX, AlphaFold, and Rosetta automation
 
 **Agent Skills**
