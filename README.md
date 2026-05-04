@@ -3,6 +3,7 @@
 **BioSymphony**
 - [Symphony Linear Starter](https://github.com/jvogan/symphony-linear-starter) — give your agent self-improving teams orchestrated through Linear
 - [Symphony Claude Lane](https://github.com/jvogan/symphony-claude-lane) — give your agent a Claude Code lane in Symphony + Linear workflows
+- [RunPod Bridge](https://github.com/jvogan/runpod-bridge) — give your agent guarded RunPod GPU workers: manifests, artifact proof, and auto-cleanup
 
 **BioTools**
 - [BioVoice](https://github.com/jvogan/biovoice) — talk to your protein structures: voice control for PyMOL, ChimeraX, AlphaFold, and Rosetta with the OpenAI Realtime API
