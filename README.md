@@ -1,7 +1,7 @@
 ## My repositories map
 
 **BioSymphony**
-- [BioSymphony Ferm DoE](https://github.com/BioSymphony/biosymphony-ferm-doe) — give your agent pre-experiment DoE planning for fermentation, bioprocess, and biomanufacturing
+- [BioSymphony Ferm DoE](https://github.com/BioSymphony/biosymphony-ferm-doe) — give your agent an agentic harness for fermentation, bioprocess, and biomanufacturing DoE planning, biosafety-aware
 - [Symphony Linear Starter](https://github.com/jvogan/symphony-linear-starter) — give your agent self-improving teams orchestrated through Linear
 - [Symphony Claude Lane](https://github.com/jvogan/symphony-claude-lane) — give your agent a Claude Code lane in Symphony + Linear workflows
 - [RunPod Bridge](https://github.com/jvogan/runpod-bridge) — give your agent guarded RunPod GPU workers: manifests, artifact proof, and auto-cleanup
