@@ -7,15 +7,15 @@
 - [Telegram Codex Bridge](https://github.com/jvogan/telegram-codex-bridge) — talk to your Codex Desktop session from anywhere: text, voice, and files over Telegram
 
 **BioSymphony**
-- [BioSymphony Structure Factory](https://github.com/BioSymphony/biosymphony-structure-factory-public) — give your agent structural biology workflows: design binders, map structures, screen candidates, rank results, and prepare cloud-scale runs
-- [BioSymphony Genecluster](https://github.com/BioSymphony/biosymphony-genecluster) — give your agent genome-mining for natural products: search public genomes and transcriptomes, compare candidate clusters, and plan follow-up work
-- [BioSymphony Bioprospector](https://github.com/BioSymphony/biosymphony-bioprospector) — give your agent biosynthetic route exploration: find enzyme and gene candidates and turn pathway ideas into follow-up searches and experiments
-- [BioSymphony Cryocore](https://github.com/BioSymphony/biosymphony-cryocore-public) — give your agent cryo-EM workflows for maps, models, figures, state comparison, and local or cloud compute preparation
-- [BioSymphony Ferm DoE](https://github.com/BioSymphony/biosymphony-ferm-doe) — give your agent an agentic harness for fermentation, bioprocess, and biomanufacturing DoE planning, biosafety-aware
+- [BioSymphony Structure Factory](https://github.com/BioSymphony/biosymphony-structure-factory-public) — structural biology workflows: design binders, map structures, screen candidates, rank results, prepare cloud-scale runs
+- [BioSymphony Genecluster](https://github.com/BioSymphony/biosymphony-genecluster) — genome mining for natural products: search public genomes and transcriptomes, compare candidate clusters, plan follow-up
+- [BioSymphony Bioprospector](https://github.com/BioSymphony/biosymphony-bioprospector) — biosynthetic route exploration: find enzyme and gene candidates, turn pathway ideas into follow-up searches and experiments
+- [BioSymphony Cryocore](https://github.com/BioSymphony/biosymphony-cryocore-public) — cryo-EM workflows for maps, models, figures, state comparison, and local or cloud compute preparation
+- [BioSymphony Ferm DoE](https://github.com/BioSymphony/biosymphony-ferm-doe) — agentic harness for fermentation, bioprocess, and biomanufacturing DoE planning, biosafety-aware
 
 **BioTools**
-- [BioVoice](https://github.com/jvogan/biovoice) — talk to your protein structures: voice control for PyMOL, ChimeraX, AlphaFold, and Rosetta with the OpenAI Realtime API
-- [Proteus](https://github.com/jvogan/proteus) — give your agent structural biology: PyMOL, ChimeraX, AlphaFold, and Rosetta automation
+- [BioVoice](https://github.com/jvogan/biovoice) — voice control for protein structures: PyMOL, ChimeraX, AlphaFold, and Rosetta on the OpenAI Realtime API
+- [Proteus](https://github.com/jvogan/proteus) — structural biology automation: PyMOL, ChimeraX, AlphaFold, and Rosetta
 
 **Agent Skills**
 - [Daneel](https://github.com/jvogan/ai-chatbot-daneel) — give your agent a safe Telegram/Discord chatbot, nine safety layers on by default
