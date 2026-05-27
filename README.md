@@ -7,6 +7,10 @@
 - [Telegram Codex Bridge](https://github.com/jvogan/telegram-codex-bridge) — talk to your Codex Desktop session from anywhere: text, voice, and files over Telegram
 
 **BioSymphony**
+- [BioSymphony Structure Factory](https://github.com/BioSymphony/biosymphony-structure-factory-public) — give your agent structural biology workflows: design binders, map structures, screen candidates, rank results, and prepare cloud-scale runs
+- [BioSymphony Genecluster](https://github.com/BioSymphony/biosymphony-genecluster) — give your agent genome-mining for natural products: search public genomes and transcriptomes, compare candidate clusters, and plan follow-up work
+- [BioSymphony Bioprospector](https://github.com/BioSymphony/biosymphony-bioprospector) — give your agent biosynthetic route exploration: find enzyme and gene candidates and turn pathway ideas into follow-up searches and experiments
+- [BioSymphony Cryocore](https://github.com/BioSymphony/biosymphony-cryocore-public) — give your agent cryo-EM workflows for maps, models, figures, state comparison, and local or cloud compute preparation
 - [BioSymphony Ferm DoE](https://github.com/BioSymphony/biosymphony-ferm-doe) — give your agent an agentic harness for fermentation, bioprocess, and biomanufacturing DoE planning, biosafety-aware
 
 **BioTools**
