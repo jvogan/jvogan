@@ -7,11 +7,11 @@
 - [Telegram Codex Bridge](https://github.com/jvogan/telegram-codex-bridge) — talk to your Codex Desktop session from anywhere: text, voice, and files over Telegram
 
 **BioSymphony**
-- [Structure Factory](https://github.com/BioSymphony/structure-factory) — structural biology workflows: design binders, map structures, screen candidates, rank results, prepare cloud-scale runs
-- [GeneCluster](https://github.com/BioSymphony/genecluster) — genome mining for natural products: search public genomes and transcriptomes, compare candidate clusters, plan follow-up
-- [BioProspector](https://github.com/BioSymphony/bioprospector) — biosynthetic route exploration: find enzyme and gene candidates, turn pathway ideas into follow-up searches and experiments
-- [CryoCore](https://github.com/BioSymphony/cryocore) — cryo-EM workflows for maps, models, figures, state comparison, and local or cloud compute preparation
-- [Ferm DoE](https://github.com/BioSymphony/ferm-doe) — agentic harness for fermentation, bioprocess, and biomanufacturing DoE planning, biosafety-aware
+- [Structure Factory](https://github.com/BioSymphony/structure-factory) — structural biology workflows: design binders, screen candidates, prepare cloud-scale runs
+- [GeneCluster](https://github.com/BioSymphony/genecluster) — genome mining for natural products: search public genomes, compare candidate clusters
+- [BioProspector](https://github.com/BioSymphony/bioprospector) — biosynthetic route exploration: find enzyme and gene candidates for target molecules
+- [CryoCore](https://github.com/BioSymphony/cryocore) — cryo-EM workflows: maps, models, figures, state comparison, local or cloud
+- [Ferm DoE](https://github.com/BioSymphony/ferm-doe) — DoE and Bayesian optimization for fermentation and bioprocess runs
 
 **BioTools**
 - [BioVoice](https://github.com/jvogan/biovoice) — voice control for protein structures: PyMOL, ChimeraX, AlphaFold, and Rosetta on the OpenAI Realtime API
