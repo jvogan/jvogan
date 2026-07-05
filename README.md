@@ -1,6 +1,7 @@
 ## My repositories map
 
 **Orchestration & Agent Infra**
+- [A Fable of Codexes](https://github.com/jvogan/a-fable-of-codexes) — turn Claude Code into a conductor over Codex workers
 - [Symphony Linear Starter](https://github.com/jvogan/symphony-linear-starter) — give your agent self-improving teams orchestrated through Linear
 - [Symphony Claude Lane](https://github.com/jvogan/symphony-claude-lane) — give your agent a Claude Code lane in Symphony + Linear workflows
 - [NeoCloud Bridge](https://github.com/jvogan/symphony-neocloud-bridge) — give your agent guarded cloud workers: manifests, artifact proof, cost limits, and cleanup
