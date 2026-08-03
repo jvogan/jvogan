@@ -31,4 +31,4 @@
 
 ---
 
-[jvogan.github.io](https://jvogan.github.io/) · [Motif](https://jvogan.github.io/motif-site/) · [Hugging Face](https://huggingface.co/JacobMolBio) · [X](https://x.com/jacobmolbio) · [houseofvogan.com](https://houseofvogan.com/)
+[jvogan.github.io](https://jvogan.github.io/) · [BioSymphony](https://biosymphony.github.io/) · [Motif](https://jvogan.github.io/motif-site/) · [Hugging Face](https://huggingface.co/JacobMolBio) · [X](https://x.com/jacobmolbio) · [houseofvogan.com](https://houseofvogan.com/)
