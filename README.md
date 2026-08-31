@@ -6,7 +6,7 @@
 - [Proteus](https://github.com/jvogan/proteus) — structural biology automation: publication-quality figures, movies, and analysis
 
 **Orchestration & Agent Infra**
-- [Ox Driver](https://github.com/jvogan/ox-driver) — let your main coding agent assign work to independent agent harnesses and collect results from solo, parallel, or staged runs
+- [Ox Driver](https://github.com/jvogan/ox-driver) — lets your main coding agent assign work to independent agent harnesses like Pi, OpenCode, OMP, and more
 - [A Fable of Codexes](https://github.com/jvogan/a-fable-of-codexes) — turn Claude Code into a conductor over Codex workers
 - [Symphony Linear Starter](https://github.com/jvogan/symphony-linear-starter) — give your agent worker teams that plan waves, review, and merge through Linear
 - [Symphony Claude Lane](https://github.com/jvogan/symphony-claude-lane) — run Claude Code workers alongside Codex in Symphony + Linear workflows
