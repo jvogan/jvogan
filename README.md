@@ -2,6 +2,7 @@
 
 **BioTools**
 - [Motif](https://github.com/jvogan/motif) — a molecular biology workbench for Claude Science
+- [Codex Binder Lane](https://github.com/jvogan/codex-binder-lane) — design protein binders in Codex: pick a target site, get sequences and predicted structures
 - [BioVoice](https://github.com/jvogan/biovoice) — talk to your protein structures: voice control for PyMOL, ChimeraX, and more
 - [Proteus](https://github.com/jvogan/proteus) — structural biology automation: publication-quality figures, movies, and analysis
 
