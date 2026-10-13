@@ -3,6 +3,7 @@
 **BioTools**
 - [Motif](https://github.com/jvogan/motif) — a molecular biology workbench for Claude Science
 - [Claude Binder Lane](https://github.com/jvogan/claude-binder-lane) — design protein binders in Claude Science with the workflow from Anthropic's protein design study
+- [Stereofold](https://github.com/jvogan/stereofold) — view your biological structures in interactive VR with Claude and Codex
 - [Codex Surface Atlas](https://github.com/jvogan/codex-surface-atlas) — discover cell-surface targets, screen molecules, and generate protein binders in Codex
 - [Codex Binder Lane](https://github.com/jvogan/codex-binder-lane) — design protein binders in Codex: pick a target site, get sequences and predicted structures
 - [BioVoice](https://github.com/jvogan/biovoice) — talk to your protein structures: voice control for PyMOL, ChimeraX, and more
