@@ -32,6 +32,7 @@
 - [WhisperHUD](https://github.com/jvogan/whisper-hud) — give your agent fast local transcription, or system-wide voice-to-text for macOS
 
 **Research**
+- [Model Steering](https://github.com/jvogan/model-steering) — model steering recipes, personalities, and examples, including Golden Gate Bridge Glimmer.
 - [VibeThinker-3B J Lens](https://github.com/jvogan/vibethinker-3b-jlens) — a Jacobian lens for VibeThinker-3B: watch an answer take shape layer by layer
 
 ---
