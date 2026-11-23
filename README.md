@@ -18,9 +18,9 @@
 - [Ferm DoE](https://github.com/BioSymphony/ferm-doe) — closed-loop fermentation runs: design a batch, analyze results, plan the next
 
 **Research**
+- [Trace2Fold](https://github.com/jvogan/trace2fold) — an inverse-folding benchmark for LLMs: design a protein sequence from raw 3D coordinates, with no tools
 - [Model Steering](https://github.com/jvogan/model-steering) — model steering recipes, personalities, and examples, including Golden Gate Bridge Glimmer.
 - [VibeThinker-3B J Lens](https://github.com/jvogan/vibethinker-3b-jlens) — a Jacobian lens for VibeThinker-3B: watch an answer take shape layer by layer
-- [Trace2Fold](https://github.com/jvogan/trace2fold) — an inverse-folding benchmark for frontier models: design a protein sequence from raw 3D coordinates, with no tools
 
 **Orchestration & Agent Infra**
 - [Ox Driver](https://github.com/jvogan/ox-driver) — lets your main coding agent assign work to independent agent harnesses like Pi, OpenCode, OMP, and more
