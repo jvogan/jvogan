@@ -17,6 +17,11 @@
 - [CryoCore](https://github.com/BioSymphony/cryocore) — cryo-EM workflows: build maps and models, compare states, make figures
 - [Ferm DoE](https://github.com/BioSymphony/ferm-doe) — closed-loop fermentation runs: design a batch, analyze results, plan the next
 
+**Research**
+- [Model Steering](https://github.com/jvogan/model-steering) — model steering recipes, personalities, and examples, including Golden Gate Bridge Glimmer.
+- [VibeThinker-3B J Lens](https://github.com/jvogan/vibethinker-3b-jlens) — a Jacobian lens for VibeThinker-3B: watch an answer take shape layer by layer
+- [Trace2Fold](https://github.com/jvogan/trace2fold) — an inverse-folding benchmark for frontier models: design a protein sequence from raw 3D coordinates, with no tools
+
 **Orchestration & Agent Infra**
 - [Ox Driver](https://github.com/jvogan/ox-driver) — lets your main coding agent assign work to independent agent harnesses like Pi, OpenCode, OMP, and more
 - [A Fable of Codexes](https://github.com/jvogan/a-fable-of-codexes) — turn Claude Code into a conductor over Codex workers
@@ -30,11 +35,6 @@
 - [yt-agent](https://github.com/jvogan/yt-agent) — give your agent terminal YouTube search, download, and clip tooling
 - [Valar](https://github.com/jvogan/Valar) — give your agent a voice: unlimited local TTS, ASR, and MCP bridge for Apple Silicon
 - [WhisperHUD](https://github.com/jvogan/whisper-hud) — give your agent fast local transcription, or system-wide voice-to-text for macOS
-
-**Research**
-- [Model Steering](https://github.com/jvogan/model-steering) — model steering recipes, personalities, and examples, including Golden Gate Bridge Glimmer.
-- [VibeThinker-3B J Lens](https://github.com/jvogan/vibethinker-3b-jlens) — a Jacobian lens for VibeThinker-3B: watch an answer take shape layer by layer
-- [Trace2Fold](https://github.com/jvogan/trace2fold) — an inverse-folding benchmark for frontier models: design a protein sequence from raw 3D coordinates, with no tools
 
 ---
 
